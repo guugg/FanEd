@@ -3,9 +3,32 @@
 使用的是`Cherry Markdown`
 
 
+> 关于MathJax公式，drawIo绘图，从多的小功能后续看情况添加。
+> 可以定制一些主流`主题`"自带"的Markdown语法。
+
 # 复制一些支持的语法
 
 - 支持斜线快捷键输入
+
+- 截图粘贴自动上传
+
+![image#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb567c.png)
+
+- 多种主题（支持修改背景图）
+
+![image#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb567c.png)
+
+- 斜线工具栏
+
+![屏幕截图 2023-09-26 160944#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb5690.png) 
+
+- 悬浮工具栏，右边表格可视化编辑
+
+![屏幕截图 2023-09-26 161058#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb569f.png) 
+
+
+
+
 
 
 # Cherry Markdown  { 简明手册 | jiǎn míng shǒu cè }
