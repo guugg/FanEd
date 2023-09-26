@@ -12,7 +12,7 @@
 
 - 截图粘贴自动上传
 
-![image#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb567c.png)
+![image#S #R #100% #auto](https://pic.imgdb.cn/item/6512935fc458853aefdb5689.png)
 
 - 多种主题（支持修改背景图）
 
